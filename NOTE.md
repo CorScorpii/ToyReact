@@ -64,7 +64,7 @@ React.createElement("div", {}, ...chidren)
 
 总的来说可以分为五个大步骤。
 
-![steps](F:\资料\Toy-React训练营\steps.jpg)
+![steps](https://github.com/CorScorpii/ToyReact/raw/master/steps.jpg)
 
 ## ToyReact生命周期和在生命周期内都发生了什么？
 
